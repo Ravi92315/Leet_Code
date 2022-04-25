@@ -7,7 +7,7 @@ class Solution {
             x=x/10;
             
         }
-        System.out.println("rev"+rev);
+        
         if(rev==temp){
             return true;
         }
